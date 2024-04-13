@@ -244,7 +244,7 @@ termux-setup-storage
 **Merubah dan Memindahkan font:**
 
 ```sh
-mkdir $HOME/.termux && mv /sdcard/Download/font.ttf $HOME/.termux/font.ttf
+mkdir -p $HOME/.termux && mv /sdcard/Download/font.ttf $HOME/.termux/font.ttf
 ```
 
 &nbsp;
