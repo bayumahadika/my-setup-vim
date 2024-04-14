@@ -125,4 +125,6 @@ echo -e '{
   "coc.preferences.formatOnType": true
 }' > $HOME/.vim/coc-settings.json
 
+mkdir -p $HOME/.termux && cp ./font.ttf $HOME/.termux && exit
+
 echo -e "\x1b[1m\t\x1b[44m\x20\x20DONE\x20\x20\x1b[0m"

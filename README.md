@@ -231,7 +231,7 @@ Kita perlu merubah font default Termux, Agar tampilan Nerdtree lebih keren dan p
 
 [Referensi font](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#patched-fonts)
 
-[Download font](https://terabox.com/s/1j4jYjg4DwE7XeeuGA1SzCw)
+[Download font](https://safefileku.com/download/H0OWxk0hahHHbr3Q)
 
 Setelah font berhasil didownload, Sekarang kita perlu merubah font default termux dengan cara memindahkan font yang berhasil kita download ke directory termux. Jalankan perintah sebagai berikut:
 
